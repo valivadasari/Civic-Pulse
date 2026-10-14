@@ -8,7 +8,10 @@
 [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.4-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Leaflet](https://img.shields.io/badge/Leaflet-1.9-199900?logo=leaflet&logoColor=white)](https://leafletjs.com/)
 [![Google Gemini](https://img.shields.io/badge/Gemini_API-1.5_Flash-4285F4?logo=google&logoColor=white)](https://aistudio.google.com/)
+[![GitHub Pages](https://img.shields.io/badge/Live_Demo-GitHub_Pages-22c55e?logo=github&logoColor=white)](https://valivadasari.github.io/Civic-Pulse/)
 [![Vercel Compatible](https://img.shields.io/badge/Deployment-Vercel-black?logo=vercel&logoColor=white)](https://vercel.com/)
+
+🔗 **Live Production URL:** [https://valivadasari.github.io/Civic-Pulse/](https://valivadasari.github.io/Civic-Pulse/)
 
 ---
 
